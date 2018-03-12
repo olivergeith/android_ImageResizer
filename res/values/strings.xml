@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_version">V1</string>
+    <string name="app_name">ImageResizer V1</string>
+    <string name="wallpaper_description">ImageResizer V1</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="Copyright">Copyright by Oliver Geith</string>
+    <string name="exit">Exit</string>
+    <string name="debugging">Debugging</string>
+    <string name="the_logo">The Logo</string>
+    <string name="header_about_options">About</string>
+    <string name="header_about_options_summary">Info, Links and more about this App....</string>
+
+</resources>
